@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Welcome in currency rates API!");
+Console.WriteLine("1. Exchange £ to PLN.");
+Console.WriteLine("2. Exchange PLN to £.");
+Console.WriteLine("Press ESC to exit!");
