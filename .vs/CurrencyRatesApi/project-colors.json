@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02893356-80e8-482f-a74f-27d9167bdf3a": {
+      "ProjectGuid": "02893356-80e8-482f-a74f-27d9167bdf3a",
+      "DisplayName": "CurrencyRatesApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
