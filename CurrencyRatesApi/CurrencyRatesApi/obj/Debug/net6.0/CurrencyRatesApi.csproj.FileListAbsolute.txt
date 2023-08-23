@@ -1,0 +1,15 @@
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\CurrencyRatesApi.exe
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\CurrencyRatesApi.deps.json
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\CurrencyRatesApi.runtimeconfig.json
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\CurrencyRatesApi.dll
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\ref\CurrencyRatesApi.dll
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\bin\Debug\net6.0\CurrencyRatesApi.pdb
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.csproj.AssemblyReference.cache
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.AssemblyInfoInputs.cache
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.AssemblyInfo.cs
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.csproj.CoreCompileInputs.cache
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.dll
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\ref\CurrencyRatesApi.dll
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.pdb
+D:\Różne\CurrencyRatesApi\CurrencyRatesApi\CurrencyRatesApi\obj\Debug\net6.0\CurrencyRatesApi.genruntimeconfig.cache
