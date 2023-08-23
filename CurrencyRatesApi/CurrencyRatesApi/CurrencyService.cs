@@ -29,11 +29,5 @@ namespace CurrencyRatesApi
             Console.WriteLine("Exchange amount: " + poundAmount);
             return poundAmount;
         }
-        public void IncorrectValue()
-        {
-            Console.Clear();
-            Console.WriteLine("Invalid value entered, try again");
-            return;
-        }
     }
 }
