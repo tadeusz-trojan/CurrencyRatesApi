@@ -29,7 +29,7 @@ do
 
     int minOptionMenu = 1;
     GetChosenOption(out chosenOption, minOptionMenu, menuOptionsCount);
-    Console.WriteLine($"Your chose: \t{menuOptions[chosenOption -1]}");
+    Console.WriteLine($"Your choice is: \t{menuOptions[chosenOption -1]}");
     CurrencyService currencyService = new CurrencyService();
 
     {
